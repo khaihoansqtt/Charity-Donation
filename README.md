@@ -24,4 +24,4 @@ The Charity Donation Project is built on the Web platform with the following mai
 The Charity Donation Project hopes to receive the attention and contributions of many people. Charity donations were successfully organized, helping many people in difficult circumstances. In the future, the project will continue to develop and bring to the community many practical values. If you have any questions, please contact the author.
 - My phone: 0396826333
 - My email: khaihoancr7@gmail.com
-\n Copyright by Khaihoan98
+Copyright by Khaihoan98
