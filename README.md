@@ -7,12 +7,15 @@ In today's society, there are many people who are facing difficulties in life, e
 
 # Project functions
 In the Charity Donation project, there are main functions as follows:
+-	Basic authentication and authorization for users.
 
 - Create and manage charitable donations: Admins can create donations, add detailed information about the purpose, amount to donate, donation end time, .. .
 
-- View detailed information about the charity donation: Interested people can see detailed information about the purpose, the amount to be donated, and the deadline.
+- View detailed information about the charity donation: people can see detailed information about the purpose, the amount to be donated, and the deadline.
 
-- Make a donation: People can donate their money to a charity through the accounts that have been linked to the project.
+- Make a donation: People can donate their money to a charity they want, and admin will confirm their donation.
+
+-	Display information of a donation, such as: name of philanthropists, total money,...
 
 # Used technology
 The Charity Donation Project is built on the Web platform with the following main technologies:
